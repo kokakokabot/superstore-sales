@@ -2,7 +2,7 @@
 
 ## Task 
 
-Analyze sales data and determine weal areas and opportunities to boost business growth 
+Analyze sales data and determine real areas and opportunities to boost business growth 
 
 ## Questions 
 
